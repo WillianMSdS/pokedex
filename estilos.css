@@ -15,3 +15,13 @@ h1{
     text-align: center;
     font-size: 54px;
 }
+
+.cartao{
+    list-style: none;
+    margin: 0 10px;
+    display: inline-block;
+    border: white solid 2px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
